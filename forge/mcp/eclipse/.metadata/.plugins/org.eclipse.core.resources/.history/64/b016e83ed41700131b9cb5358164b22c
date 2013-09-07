@@ -1,0 +1,7 @@
+package com.polegamers.kitchencraft;
+
+import net.minecraft.creativetab.CreativeTabs;
+
+public class CreativeTabKitchenCraft extends CreativeTabs {
+
+}
