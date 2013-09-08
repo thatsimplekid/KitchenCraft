@@ -6106,3 +6106,79 @@ based on RetroGuard v2.3.1 by Retrologic Systems - www.retrologic.com
 21:35:14 - 6 warnings
 21:35:14 - - Done in 28.94 seconds
 21:35:14 - > Generating client md5s
+22:18:25 - == MCP 7.51 (data: 7.51, client: 1.5.2, server: 1.5.2) ==
+22:18:25 - OS : win32
+22:18:25 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+22:18:25 - runmc: '"C:\Program Files\Java\jdk1.7.0_21\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\src\minecraft;..\lib;..\lib\*;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar" -Djava.library.path=..\jars\bin\natives Start'
+22:18:25 - shlex: ['C:\\Program Files\\Java\\jdk1.7.0_21\\bin\\java', '-Xincgc', '-Xms1024M', '-Xmx1024M', '-cp', '..\\bin\\minecraft;..\\src\\minecraft;..\\lib;..\\lib\\*;..\\jars\\bin\\minecraft.jar;..\\jars\\bin\\jinput.jar;..\\jars\\bin\\lwjgl.jar;..\\jars\\bin\\lwjgl_util.jar', '-Djava.library.path=..\\jars\\bin\\natives', 'Start']
+22:18:32 - 2013-09-06 22:18:32 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+22:18:32 - 2013-09-06 22:18:32 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_21, running on Windows 8:amd64:6.2, installed at C:\Program Files\Java\jdk1.7.0_21\jre
+22:18:32 - 2013-09-06 22:18:32 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+22:18:32 - 2013-09-06 22:18:32 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar
+22:18:33 - 2013-09-06 22:18:33 [INFO] [ForgeModLoader] Download complete
+22:18:33 - 2013-09-06 22:18:33 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar
+22:18:38 - 2013-09-06 22:18:38 [INFO] [ForgeModLoader] Download complete
+22:18:38 - 2013-09-06 22:18:38 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar
+22:18:39 - 2013-09-06 22:18:39 [INFO] [ForgeModLoader] Download complete
+22:18:39 - 2013-09-06 22:18:39 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-148.jar
+22:18:46 - 2013-09-06 22:18:46 [INFO] [ForgeModLoader] Download complete
+22:18:46 - 2013-09-06 22:18:46 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.2.zip
+22:18:46 - 2013-09-06 22:18:46 [INFO] [ForgeModLoader] Download complete
+22:18:46 - 2013-09-06 22:18:46 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/scala-library.jar
+22:19:02 - 2013-09-06 22:19:02 [INFO] [ForgeModLoader] Download complete
+22:19:11 - 2013-09-06 22:19:11 [INFO] [STDOUT] 229 recipes
+22:19:11 - 2013-09-06 22:19:11 [INFO] [STDOUT] 27 achievements
+22:19:11 - 2013-09-06 22:19:11 [INFO] [Minecraft-Client] Setting user: Player47
+22:19:11 - 2013-09-06 22:19:11 [INFO] [STDOUT] (Session ID is -)
+22:19:11 - 2013-09-06 22:19:11 [INFO] [STDERR] Client asked for parameter: server
+22:19:11 - 2013-09-06 22:19:11 [INFO] [Minecraft-Client] LWJGL Version: 2.4.2
+22:19:12 - 2013-09-06 22:19:12 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+22:19:12 - 2013-09-06 22:19:12 [INFO] [STDOUT] MinecraftForge v7.8.1.738 Initialized
+22:19:12 - 2013-09-06 22:19:12 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
+22:19:14 - 2013-09-06 22:19:14 [INFO] [STDOUT] Replaced 85 ore recipies
+22:19:14 - 2013-09-06 22:19:14 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+22:19:14 - 2013-09-06 22:19:14 [INFO] [ForgeModLoader] No mod directory found, creating one: C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\mods
+22:19:14 - 2013-09-06 22:19:14 [INFO] [ForgeModLoader] Mod directory created successfully
+22:19:14 - 2013-09-06 22:19:14 [INFO] [ForgeModLoader] Config directory created successfully
+22:19:14 - 2013-09-06 22:19:14 [INFO] [ForgeModLoader] Reading custom logging properties from C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\config\logging.properties
+22:19:14 - 2013-09-06 22:19:14 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+22:19:15 - 2013-09-06 22:19:15 [INFO] [ForgeModLoader] Searching C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\mods for mods
+22:19:19 - 2013-09-06 22:19:19 [INFO] [ForgeModLoader] Forge Mod Loader has identified 3 mods to load
+22:19:19 - 2013-09-06 22:19:19 [INFO] [mcp] Activating mod mcp
+22:19:19 - 2013-09-06 22:19:19 [INFO] [FML] Activating mod FML
+22:19:19 - 2013-09-06 22:19:19 [INFO] [Forge] Activating mod Forge
+22:19:20 - 2013-09-06 22:19:20 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+22:19:20 - 2013-09-06 22:19:20 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+22:19:20 - 2013-09-06 22:19:20 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+22:19:21 - 2013-09-06 22:19:21 [INFO] [STDOUT]
+22:19:21 - 2013-09-06 22:19:21 [INFO] [STDOUT] Starting up SoundSystem...
+22:19:22 - 2013-09-06 22:19:22 [INFO] [STDOUT] Initializing LWJGL OpenAL
+22:19:22 - 2013-09-06 22:19:22 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+22:19:22 - 2013-09-06 22:19:22 [INFO] [STDOUT] OpenAL initialized.
+22:19:22 - 2013-09-06 22:19:22 [INFO] [STDOUT]
+22:19:23 - 2013-09-06 22:19:23 [INFO] [ForgeModLoader] Forge Mod Loader has detected an older LWJGL version, new advanced texture animation features are disabled
+22:19:23 - 2013-09-06 22:19:23 [INFO] [ForgeModLoader] Not using advanced OpenGL 4.3 advanced capability for animations : OpenGL 4.3 is not available
+22:19:23 - 2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+22:19:23 - 2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+22:19:23 - 2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+22:19:23 - 2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+22:19:23 - 2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+22:19:23 - 2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+22:19:23 - 2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+22:19:24 - 2013-09-06 22:19:24 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+22:19:24 - 2013-09-06 22:19:24 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+22:19:24 - 2013-09-06 22:19:24 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 3 mods
+22:19:27 - 2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+22:19:27 - 2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+22:19:27 - 2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+22:19:27 - 2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+22:19:27 - 2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+22:19:27 - 2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+22:19:27 - 2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+22:19:28 - 2013-09-06 22:19:28 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+22:19:28 - 2013-09-06 22:19:28 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+22:19:40 - 2013-09-06 22:19:40 [INFO] [Minecraft-Client] Stopping!
+22:19:41 - 2013-09-06 22:19:41 [INFO] [STDOUT]
+22:19:41 - 2013-09-06 22:19:41 [INFO] [STDOUT] SoundSystem shutting down...
+22:19:41 - 2013-09-06 22:19:41 [INFO] [STDOUT]     Author: Paul Lamb, www.paulscode.com
+22:19:41 - 2013-09-06 22:19:41 [INFO] [STDOUT]
