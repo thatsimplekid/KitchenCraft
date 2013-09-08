@@ -6,7 +6,7 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;
 import cpw.mods.fml.common.network.NetworkMod;
 
-@Mod(modid="kitchencraft", name="KitchenCraft", version="1.0.0")
+@Mod(modid="kitchencraft", name="KitchenCraft", version="pre-alpha v0.1")
 @NetworkMod(clientSideRequired = true, serverSideRequired = true)
 
 public class kcbasemod extends BaseMod{
@@ -17,7 +17,7 @@ public class kcbasemod extends BaseMod{
 
 @Override
 public String getVersion() {
-	return "1.0.0";
+	return "pre-alpha v0.1";
 	
 }
 

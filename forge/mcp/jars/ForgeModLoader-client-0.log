@@ -1,0 +1,430 @@
+2013-09-06 22:18:32 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2013-09-06 22:18:32 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_21, running on Windows 8:amd64:6.2, installed at C:\Program Files\Java\jdk1.7.0_21\jre
+2013-09-06 22:18:32 [FINE] [ForgeModLoader] Java classpath at launch is ..\bin\minecraft;..\src\minecraft;..\lib;..\lib\argo-3.2-src.jar;..\lib\asm-debug-all-4.1.jar;..\lib\bcprov-debug-jdk15on-148.jar;..\lib\guava-14.0-rc3-sources.jar;..\lib\guava-14.0-rc3.jar;..\lib\scala-library.jar;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar
+2013-09-06 22:18:32 [FINE] [ForgeModLoader] Java library path at launch is ..\jars\bin\natives
+2013-09-06 22:18:32 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2013-09-06 22:18:32 [FINEST] [ForgeModLoader] All core mods are successfully located
+2013-09-06 22:18:32 [FINEST] [ForgeModLoader] Discovering coremods
+2013-09-06 22:18:32 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar
+2013-09-06 22:18:32 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar
+2013-09-06 22:18:33 [FINEST] [ForgeModLoader] Download complete
+2013-09-06 22:18:33 [INFO] [ForgeModLoader] Download complete
+2013-09-06 22:18:33 [FINEST] [ForgeModLoader] Library file argo-small-3.2.jar was downloaded and verified successfully
+2013-09-06 22:18:33 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar
+2013-09-06 22:18:33 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar
+2013-09-06 22:18:38 [FINEST] [ForgeModLoader] Download complete
+2013-09-06 22:18:38 [INFO] [ForgeModLoader] Download complete
+2013-09-06 22:18:38 [FINEST] [ForgeModLoader] Library file guava-14.0-rc3.jar was downloaded and verified successfully
+2013-09-06 22:18:38 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar
+2013-09-06 22:18:38 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar
+2013-09-06 22:18:39 [FINEST] [ForgeModLoader] Download complete
+2013-09-06 22:18:39 [INFO] [ForgeModLoader] Download complete
+2013-09-06 22:18:39 [FINEST] [ForgeModLoader] Library file asm-all-4.1.jar was downloaded and verified successfully
+2013-09-06 22:18:39 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-148.jar
+2013-09-06 22:18:39 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-148.jar
+2013-09-06 22:18:46 [FINEST] [ForgeModLoader] Download complete
+2013-09-06 22:18:46 [INFO] [ForgeModLoader] Download complete
+2013-09-06 22:18:46 [FINEST] [ForgeModLoader] Library file bcprov-jdk15on-148.jar was downloaded and verified successfully
+2013-09-06 22:18:46 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.2.zip
+2013-09-06 22:18:46 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.2.zip
+2013-09-06 22:18:46 [FINEST] [ForgeModLoader] Download complete
+2013-09-06 22:18:46 [INFO] [ForgeModLoader] Download complete
+2013-09-06 22:18:46 [FINEST] [ForgeModLoader] Library file deobfuscation_data_1.5.2.zip was downloaded and verified successfully
+2013-09-06 22:18:46 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/scala-library.jar
+2013-09-06 22:18:46 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/scala-library.jar
+2013-09-06 22:19:02 [FINEST] [ForgeModLoader] Download complete
+2013-09-06 22:19:02 [INFO] [ForgeModLoader] Download complete
+2013-09-06 22:19:02 [FINEST] [ForgeModLoader] Library file scala-library.jar was downloaded and verified successfully
+2013-09-06 22:19:03 [FINEST] [ForgeModLoader] Running coremod plugins
+2013-09-06 22:19:03 [FINEST] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-09-06 22:19:05 [FINEST] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2013-09-06 22:19:05 [FINEST] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-09-06 22:19:05 [FINEST] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2013-09-06 22:19:05 [FINEST] [ForgeModLoader] Validating minecraft
+2013-09-06 22:19:06 [FINEST] [ForgeModLoader] Minecraft validated, launching...
+2013-09-06 22:19:11 [INFO] [STDOUT] 229 recipes
+2013-09-06 22:19:11 [INFO] [STDOUT] 27 achievements
+2013-09-06 22:19:11 [INFO] [Minecraft-Client] Setting user: Player47
+2013-09-06 22:19:11 [INFO] [STDOUT] (Session ID is -)
+2013-09-06 22:19:11 [INFO] [STDERR] Client asked for parameter: server
+2013-09-06 22:19:11 [INFO] [Minecraft-Client] LWJGL Version: 2.4.2
+2013-09-06 22:19:12 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-09-06 22:19:12 [INFO] [STDOUT] MinecraftForge v7.8.1.738 Initialized
+2013-09-06 22:19:12 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
+2013-09-06 22:19:14 [INFO] [STDOUT] Replaced 85 ore recipies
+2013-09-06 22:19:14 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-09-06 22:19:14 [INFO] [ForgeModLoader] No mod directory found, creating one: C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\mods
+2013-09-06 22:19:14 [INFO] [ForgeModLoader] Mod directory created successfully
+2013-09-06 22:19:14 [FINE] [ForgeModLoader] No config directory found, creating one: C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\config
+2013-09-06 22:19:14 [INFO] [ForgeModLoader] Config directory created successfully
+2013-09-06 22:19:14 [INFO] [ForgeModLoader] Reading custom logging properties from C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\config\logging.properties
+2013-09-06 22:19:14 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-09-06 22:19:14 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related directory at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\bin\minecraft, examining for mod candidates
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related directory at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\src\minecraft, examining for mod candidates
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related directory at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\lib, examining for mod candidates
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\lib\argo-3.2-src.jar, examining for mod candidates
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\lib\asm-debug-all-4.1.jar, examining for mod candidates
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\lib\bcprov-debug-jdk15on-148.jar, examining for mod candidates
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\lib\guava-14.0-rc3-sources.jar, examining for mod candidates
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\lib\guava-14.0-rc3.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\lib\scala-library.jar
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\bin\minecraft.jar, examining for mod candidates
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\bin\jinput.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\bin\lwjgl.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\bin\lwjgl_util.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\lib\argo-small-3.2.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\lib\guava-14.0-rc3.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\lib\asm-all-4.1.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\lib\bcprov-jdk15on-148.jar
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\lib\deobfuscation_data_1.5.2.zip
+2013-09-06 22:19:15 [FINER] [ForgeModLoader] Skipping known library file C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\lib\scala-library.jar
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-09-06 22:19:15 [INFO] [ForgeModLoader] Searching C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\mods for mods
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] Examining directory minecraft for potential mods
+2013-09-06 22:19:15 [FINE] [ForgeModLoader] No mcmod.info file found in directory minecraft
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers.deobf
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package ibxm
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block.material
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.audio
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity.render
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.achievement
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.inventory
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.mco
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.model
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.multiplayer
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.particle
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.culling
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.entity
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.texture
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.tileentity
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.settings
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.stats
+2013-09-06 22:19:15 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.texturepacks
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.command
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.crash
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.creativetab
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.dispenser
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.enchantment
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.boss
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.effect
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.item
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.monster
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.passive
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.player
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.projectile
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.inventory
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item.crafting
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.logging
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.nbt
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.packet
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.rcon
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.pathfinding
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.potion
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.profiler
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.scoreboard
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.dedicated
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.gui
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.integrated
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.management
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.stats
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.tileentity
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.util
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.village
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.biome
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk.storage
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.demo
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.feature
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.layer
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.structure
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.storage
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.obj
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network.packet
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.brewing
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.terraingen
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.liquids
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package paulscode
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
+2013-09-06 22:19:16 [FINE] [ForgeModLoader] Examining directory minecraft for potential mods
+2013-09-06 22:19:16 [FINE] [ForgeModLoader] No mcmod.info file found in directory minecraft
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers.deobf
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package ibxm
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block.material
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.audio
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity.render
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.achievement
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.inventory
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.mco
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.model
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.multiplayer
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.particle
+2013-09-06 22:19:16 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.culling
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.entity
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.texture
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.tileentity
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.settings
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.stats
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.texturepacks
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.command
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.crash
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.creativetab
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.dispenser
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.enchantment
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.boss
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.effect
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.item
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.monster
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.passive
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.player
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.projectile
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.inventory
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item.crafting
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.logging
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.nbt
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.packet
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.rcon
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.pathfinding
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.potion
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.profiler
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.scoreboard
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.dedicated
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.gui
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.integrated
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.management
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.stats
+2013-09-06 22:19:17 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.tileentity
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.util
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.village
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.biome
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk.storage
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.demo
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.feature
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.layer
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.structure
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.storage
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.obj
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network.packet
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.brewing
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.terraingen
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.liquids
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package paulscode
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
+2013-09-06 22:19:18 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] Examining directory lib for potential mods
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] No mcmod.info file found in directory lib
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] Examining file argo-3.2-src.jar for potential mods
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] The mod container argo-3.2-src.jar appears to be missing an mcmod.info file
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] Examining file asm-debug-all-4.1.jar for potential mods
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] Examining file bcprov-debug-jdk15on-148.jar for potential mods
+2013-09-06 22:19:18 [FINE] [ForgeModLoader] The mod container bcprov-debug-jdk15on-148.jar appears to be missing an mcmod.info file
+2013-09-06 22:19:19 [FINE] [ForgeModLoader] Examining file guava-14.0-rc3-sources.jar for potential mods
+2013-09-06 22:19:19 [FINE] [ForgeModLoader] The mod container guava-14.0-rc3-sources.jar appears to be missing an mcmod.info file
+2013-09-06 22:19:19 [FINE] [ForgeModLoader] Examining file minecraft.jar for potential mods
+2013-09-06 22:19:19 [FINE] [ForgeModLoader] The mod container minecraft.jar appears to be missing an mcmod.info file
+2013-09-06 22:19:19 [INFO] [ForgeModLoader] Forge Mod Loader has identified 3 mods to load
+2013-09-06 22:19:19 [FINER] [ForgeModLoader] Received a system property request ''
+2013-09-06 22:19:19 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-09-06 22:19:19 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-09-06 22:19:19 [FINE] [ForgeModLoader] Reloading logging properties from C:\Users\thatsimplekid\Documents\GitHub\kc\KitchenCraft\forge\mcp\jars\config\logging.properties
+2013-09-06 22:19:19 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-09-06 22:19:19 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-09-06 22:19:19 [INFO] [mcp] Activating mod mcp
+2013-09-06 22:19:19 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-09-06 22:19:19 [INFO] [FML] Activating mod FML
+2013-09-06 22:19:19 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-09-06 22:19:19 [INFO] [Forge] Activating mod Forge
+2013-09-06 22:19:19 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-09-06 22:19:19 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-09-06 22:19:20 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-09-06 22:19:20 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-09-06 22:19:20 [FINE] [ForgeModLoader] Mod sorting data
+2013-09-06 22:19:20 [FINE] [ForgeModLoader] No user mods found to sort
+2013-09-06 22:19:20 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-09-06 22:19:20 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-09-06 22:19:20 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-09-06 22:19:20 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-09-06 22:19:20 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-09-06 22:19:20 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-09-06 22:19:20 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-09-06 22:19:20 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
+2013-09-06 22:19:20 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-09-06 22:19:20 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-09-06 22:19:20 [FINE] [ForgeModLoader] Mod signature data
+2013-09-06 22:19:20 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-09-06 22:19:20 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
+2013-09-06 22:19:20 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
+2013-09-06 22:19:20 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-09-06 22:19:20 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-09-06 22:19:20 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-09-06 22:19:20 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-09-06 22:19:20 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-09-06 22:19:20 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-09-06 22:19:20 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-09-06 22:19:21 [INFO] [STDOUT] 
+2013-09-06 22:19:21 [INFO] [STDOUT] Starting up SoundSystem...
+2013-09-06 22:19:22 [INFO] [STDOUT] Initializing LWJGL OpenAL
+2013-09-06 22:19:22 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2013-09-06 22:19:22 [INFO] [STDOUT] OpenAL initialized.
+2013-09-06 22:19:22 [INFO] [STDOUT] 
+2013-09-06 22:19:23 [INFO] [ForgeModLoader] Forge Mod Loader has detected an older LWJGL version, new advanced texture animation features are disabled
+2013-09-06 22:19:23 [INFO] [ForgeModLoader] Not using advanced OpenGL 4.3 advanced capability for animations : OpenGL 4.3 is not available
+2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2013-09-06 22:19:23 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2013-09-06 22:19:24 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2013-09-06 22:19:24 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2013-09-06 22:19:24 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-09-06 22:19:24 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-09-06 22:19:24 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-09-06 22:19:24 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-09-06 22:19:24 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-09-06 22:19:24 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-09-06 22:19:24 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-09-06 22:19:24 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-09-06 22:19:24 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-09-06 22:19:24 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-09-06 22:19:24 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-09-06 22:19:24 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-09-06 22:19:24 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-09-06 22:19:24 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 3 mods
+2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2013-09-06 22:19:27 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2013-09-06 22:19:28 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2013-09-06 22:19:28 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2013-09-06 22:19:40 [INFO] [Minecraft-Client] Stopping!
+2013-09-06 22:19:41 [INFO] [STDOUT] 
+2013-09-06 22:19:41 [INFO] [STDOUT] SoundSystem shutting down...
+2013-09-06 22:19:41 [INFO] [STDOUT]     Author: Paul Lamb, www.paulscode.com
+2013-09-06 22:19:41 [INFO] [STDOUT] 
