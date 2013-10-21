@@ -9,6 +9,12 @@ public class gasFuelHandler implements IFuelHandler{
 	public int getBurnTime(ItemStack fuel) {
 		if(fuel.itemID == kcbasemod.smallGasCan.itemID){
 			return 500;
+			
+		}else if(fuel.itemID == kcbasemod.medGasCan.itemID){
+			return 1200;
+		}else if(fuel.itemID == kcbasemod.largeGasCan.itemID){
+			return 2600;
+		
 		}else{
 			return 0;
 		

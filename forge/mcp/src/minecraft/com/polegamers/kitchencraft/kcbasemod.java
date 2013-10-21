@@ -20,9 +20,12 @@ public class kcbasemod extends BaseMod{
 	//Blocks
 	public static Block blackTiles = new BlockTile(508,"Black");
 	//Items
-	public static Item itemKnife = new ItemKnife(1050);
+	public static Item itemKnife = new ItemKnife(1050).setCreativeTab(kcTab).setUnlocalizedName("itemKnife");
+	public static Item emptyCan = new EmptyCan(1051, "emptyCan").setCreativeTab(kcTab).setUnlocalizedName("emptyCan");
 	//Fuels
 	public static Item smallGasCan = new SmallGasCan(1060, "smallGasCan").setCreativeTab(kcTab).setUnlocalizedName("smallGasCan");
+	public static Item medGasCan = new MedGasCan(1061, "medGasCan").setCreativeTab(kcTab).setUnlocalizedName("medGasCan");
+	public static Item largeGasCan = new LargeGasCan(1062, "largeGasCan").setCreativeTab(kcTab).setUnlocalizedName("largeGasCan");
 
 	
 @Override
@@ -36,10 +39,19 @@ public void load(FMLInitializationEvent event){
 	//Block Reg
 	GameRegistry.registerBlock(blackTiles, "BlackTiles");
 	LanguageRegistry.addName(blackTiles, "Black Tiles");
+	//Item Reg
+	GameRegistry.registerItem(itemKnife, "itemKnife");
+	LanguageRegistry.addName(itemKnife, "Knife");
+	GameRegistry.registerItem(emptyCan, "emptyCan");
+	LanguageRegistry.addName(emptyCan, "Empty Can");
 	//Fuel Reg
 	GameRegistry.registerFuelHandler(new gasFuelHandler());
-	GameRegistry.registerItem(smallGasCan, "gasCanSmall");
+	GameRegistry.registerItem(smallGasCan, "smallGasCan");
 	LanguageRegistry.addName(smallGasCan, "Small Gas Can");
+	GameRegistry.registerItem(medGasCan, "medGasCan");
+	LanguageRegistry.addName(medGasCan, "Gas Can");
+	GameRegistry.registerItem(largeGasCan, "largeGasCan");
+	LanguageRegistry.addName(largeGasCan, "Large Gas Can");
 
 }
 
