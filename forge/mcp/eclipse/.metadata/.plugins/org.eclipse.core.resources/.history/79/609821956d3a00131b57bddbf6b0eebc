@@ -37,7 +37,6 @@ public void load(FMLInitializationEvent event){
 	GameRegistry.registerBlock(blackTiles, "BlackTiles");
 	LanguageRegistry.addName(blackTiles, "Black Tiles");
 	//Fuel Reg
-	GameRegistry.registerFuelHandler(new gasFuelHandler());
 	GameRegistry.registerItem(smallGasCan, "gasCanSmall");
 	LanguageRegistry.addName(smallGasCan, "Small Gas Can");
 
