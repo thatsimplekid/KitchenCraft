@@ -1,0 +1,61 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 21/10/13 22:12
+Description: Updating screen events
+
+java.lang.NullPointerException
+	at net.minecraft.client.audio.SoundManager.playSoundFX(SoundManager.java:499)
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:123)
+	at net.minecraft.client.gui.GuiMainMenu.mouseClicked(GuiMainMenu.java:600)
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:203)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:177)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1500)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:835)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:760)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.client.audio.SoundManager.playSoundFX(SoundManager.java:499)
+	at net.minecraft.client.gui.GuiScreen.mouseClicked(GuiScreen.java:123)
+	at net.minecraft.client.gui.GuiMainMenu.mouseClicked(GuiMainMenu.java:600)
+	at net.minecraft.client.gui.GuiScreen.handleMouseInput(GuiScreen.java:203)
+	at net.minecraft.client.gui.GuiScreen.handleInput(GuiScreen.java:177)
+
+-- Affected screen --
+Details:
+	Screen name: net.minecraft.client.gui.GuiMainMenu
+Stacktrace:
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1500)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:835)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:760)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 933103296 bytes (889 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v7.51 FML v5.2.23.738 Minecraft Forge 7.8.1.738 4 mods loaded, 4 mods active
+	mcp{7.51} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	FML{5.2.23.738} [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	Forge{7.8.1.738} [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	kitchencraft{pre-alpha v0.1} [KitchenCraft] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available
+	LWJGL: 2.4.2
+	OpenGL: GeForce GT 630/PCIe/SSE2 GL version 4.3.0, NVIDIA Corporation
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Texture Pack: Default
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: ~~ERROR~~ NullPointerException: null

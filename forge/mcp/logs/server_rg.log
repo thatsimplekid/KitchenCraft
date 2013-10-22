@@ -1,0 +1,57 @@
+# If this log is to be used for incremental obfuscation / patch generation, 
+# add any '.class', '.method', '.field' and '.attribute' restrictions here:
+
+
+#-DO-NOT-EDIT-BELOW-THIS-LINE------------------DO-NOT-EDIT-BELOW-THIS-LINE--
+#
+# RetroGuard MCP v3.6.5
+#
+# Logfile created on Mon Oct 21 21:41:49 BST 2013
+#
+# Jar file to be obfuscated:           minecraft_server.jar
+# Target Jar file for obfuscated code: minecraft_server_rg.jar
+# RetroGuard Script file used:         retroguard.cfg
+#
+#
+# WARNING - Reflection methods are called which may unavoidably break in the
+# obfuscated version at runtime. Please review your source code to ensure
+# these methods do not act on classes in the obfuscated Jar file.
+#      Your class j calls the java/lang/Class method getDeclaredField(Ljava/lang/String;)Ljava/lang/reflect/Field;
+#      Your class asp calls the java/lang/ClassLoader method loadClass(Ljava/lang/String;)Ljava/lang/Class;
+#      Your class asp uses '.class' or calls java/lang/Class.forName(Ljava/lang/String;)Ljava/lang/Class;
+
+# Unrecoverable error during obfuscation:
+# COM.rl.obf.classfile.ClassFileException: ClassNotFound qv
+# 	at COM.rl.obf.Cl$ExtNameListUp.<init>(Cl.java:1540)
+# 	at COM.rl.obf.Cl.getExtNameListUp(Cl.java:1511)
+# 	at COM.rl.obf.Cl.resolveThis(Cl.java:903)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:853)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:839)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+# 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+# 	at COM.rl.obf.Cl.resolveOptimally(Cl.java:646)
+# 	at COM.rl.obf.ClassTree$6.classAction(ClassTree.java:687)
+# 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1488)
+# 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1480)
+# 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1471)
+# 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1471)
+# 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1471)
+# 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1452)
+# 	at COM.rl.obf.ClassTree.resolveClasses(ClassTree.java:682)
+# 	at COM.rl.obf.GuardDB.createMap(GuardDB.java:437)
+# 	at COM.rl.obf.GuardDB.remapTo(GuardDB.java:464)
+# 	at COM.rl.obf.RetroGuardImpl.run(RetroGuardImpl.java:182)
+# 	at COM.rl.obf.RetroGuardImpl.obfuscate(RetroGuardImpl.java:131)
+# 	at COM.rl.obf.RetroGuardImpl.obfuscate(RetroGuardImpl.java:113)
+# 	at RetroGuard.main(RetroGuard.java:90)
+

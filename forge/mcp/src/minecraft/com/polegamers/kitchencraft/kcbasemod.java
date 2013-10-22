@@ -20,7 +20,7 @@ public class kcbasemod extends BaseMod{
 	//Blocks
 	public static Block blackTiles = new BlockTile(508,"Black");
 	//Items
-	public static Item itemKnife = new ItemKnife(1050).setCreativeTab(kcTab).setUnlocalizedName("itemKnife");
+	public static Item itemKnife = new ItemKnife(1050, "itemKnife").setCreativeTab(kcTab).setUnlocalizedName("itemKnife");
 	public static Item emptyCan = new EmptyCan(1051, "emptyCan").setCreativeTab(kcTab).setUnlocalizedName("emptyCan");
 	//Fuels
 	public static Item smallGasCan = new SmallGasCan(1060, "smallGasCan").setCreativeTab(kcTab).setUnlocalizedName("smallGasCan");

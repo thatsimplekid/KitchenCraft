@@ -6,3 +6,55 @@
 21:34:16 - "scalac" is not found on the PATH.  Scala files will not be recompiled
 21:34:45 - "scalac" is not found on the PATH.  Scala files will not be recompiled
 22:18:25 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+21:39:32 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+21:40:49 - !! Can not find server md5s !!
+21:41:05 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+21:41:40 - !! Can not find server sources, try decompiling !!
+21:41:48 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+21:41:49 - !! Modified jar detected. Unpredictable results !!
+21:41:49 - !! client already decompiled. Run cleanup before decompiling again !!
+21:41:49 - !! Modified jar detected. Unpredictable results !!
+21:42:03 - '"C:\Program Files\Java\jdk1.7.0_45\bin\java" -cp "runtime\bin\retroguard.jar;lib;lib\*;jars\minecraf...' failed : 1
+21:42:03 - 
+21:42:03 - == ERRORS FOUND ==
+21:42:03 - 
+21:42:03 - Unrecoverable error during obfuscation, see log file for details.
+21:42:03 - RetroGuard error: COM.rl.obf.classfile.ClassFileException: ClassNotFound qv
+21:42:03 - COM.rl.obf.classfile.ClassFileException: ClassNotFound qv
+21:42:03 - 	at COM.rl.obf.Cl$ExtNameListUp.<init>(Cl.java:1540)
+21:42:03 - 	at COM.rl.obf.Cl.getExtNameListUp(Cl.java:1511)
+21:42:03 - 	at COM.rl.obf.Cl.resolveThis(Cl.java:903)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:853)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:839)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:865)
+21:42:03 - 	at COM.rl.obf.Cl.resolveNameSpaceExcept(Cl.java:846)
+21:42:03 - 	at COM.rl.obf.Cl.resolveOptimally(Cl.java:646)
+21:42:03 - 	at COM.rl.obf.ClassTree$6.classAction(ClassTree.java:687)
+21:42:03 - 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1488)
+21:42:03 - 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1480)
+21:42:03 - 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1471)
+21:42:03 - 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1471)
+21:42:03 - 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1471)
+21:42:03 - 	at COM.rl.obf.ClassTree.walkTree(ClassTree.java:1452)
+21:42:03 - 	at COM.rl.obf.ClassTree.resolveClasses(ClassTree.java:682)
+21:42:03 - 	at COM.rl.obf.GuardDB.createMap(GuardDB.java:437)
+21:42:03 - 	at COM.rl.obf.GuardDB.remapTo(GuardDB.java:464)
+21:42:03 - 	at COM.rl.obf.RetroGuardImpl.run(RetroGuardImpl.java:182)
+21:42:03 - 	at COM.rl.obf.RetroGuardImpl.obfuscate(RetroGuardImpl.java:131)
+21:42:03 - 	at COM.rl.obf.RetroGuardImpl.obfuscate(RetroGuardImpl.java:113)
+21:42:03 - 	at RetroGuard.main(RetroGuard.java:90)
+21:42:03 - ==================
+21:42:03 - 
+21:42:03 - Decompile failed
+22:14:45 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+22:15:45 - !! Can not find server md5s !!

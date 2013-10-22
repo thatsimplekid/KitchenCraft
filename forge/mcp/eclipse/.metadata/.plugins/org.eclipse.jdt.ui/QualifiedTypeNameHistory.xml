@@ -5,8 +5,11 @@
 <fullyQualifiedTypeName name="net.minecraft.src.BaseMod"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Init"/>
 <fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.SideOnly"/>
 <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLInitializationEvent"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.SideOnly"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="net.minecraft.util.Icon"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IconRegister"/>
 </qualifiedTypeNameHistroy>

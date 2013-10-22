@@ -21,7 +21,7 @@ public class LargeGasCan extends Item {
 	
 	@SideOnly(Side.CLIENT)
 	public void registerIcons(IconRegister par1IconRegister){
-		this.largeGasCan = par1IconRegister.registerIcon("mod/" + this.iconPath);
+		this.largeGasCan = par1IconRegister.registerIcon("kc/" + this.iconPath);
 	}
 	
 	@SideOnly(Side.CLIENT)

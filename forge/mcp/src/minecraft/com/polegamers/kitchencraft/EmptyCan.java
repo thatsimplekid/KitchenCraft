@@ -21,7 +21,7 @@ public class EmptyCan extends Item{
 	
 	@SideOnly(Side.CLIENT)
 	public void registerIcons(IconRegister par1IconRegister){
-		this.emptyCan = par1IconRegister.registerIcon("mod/" + this.iconPath);
+		this.emptyCan = par1IconRegister.registerIcon("kc/" + this.iconPath);
 	}
 	
 	@SideOnly(Side.CLIENT)
